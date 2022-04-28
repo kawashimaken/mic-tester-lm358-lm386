@@ -1,0 +1,606 @@
+(export 
+  (version "E") 
+  (design 
+    (source "/Users/touchbar/Documents/ first_try/ first_try.kicad_sch") 
+    (date "2022 April 27, Wednesday 11:18:36") 
+    (tool "Eeschema (6.0.1-0)") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source " first_try.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "C1") 
+      (value "0.022u") 
+      (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6bafaffb-6213-4438-bca4-22789850e6cc")) 
+    (comp 
+      (ref "C2") 
+      (value "470p") 
+      (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8a4c9d5d-5966-4bda-b61b-2d0575ccf30d")) 
+    (comp 
+      (ref "C3") 
+      (value "0.1u") 
+      (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "33a4767b-465f-4b1e-b2e2-0a1e45385985")) 
+    (comp 
+      (ref "C4") 
+      (value "220u") 
+      (footprint "Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "C_Polarized") 
+        (description "Polarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "42de3f85-8d22-4a91-ac22-6d7dab73449c")) 
+    (comp 
+      (ref "J1") 
+      (value "Conn_01x02_Female") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Connector") 
+        (part "Conn_01x02_Female") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "4ad8f9f1-ca44-4a82-8025-03808d70ff4b")) 
+    (comp 
+      (ref "J2") 
+      (value "Conn_01x02_Male") 
+      (footprint "Connector:JWT_A3963_1x02_P3.96mm_Vertical") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Connector") 
+        (part "Conn_01x02_Male") 
+        (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a938e6af-648a-420b-b809-3ebbfbcbe975")) 
+    (comp 
+      (ref "R1") 
+      (value "10k") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "bd5f2549-c67f-4464-8209-fb92f362d0b4")) 
+    (comp 
+      (ref "R2") 
+      (value "200k") 
+      (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6f2a241d-e828-48f8-a1f4-795a3bf78df9")) 
+    (comp 
+      (ref "R3") 
+      (value "200k") 
+      (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9a4762ca-5d68-4ba3-a94d-bfc97844c741")) 
+    (comp 
+      (ref "R4") 
+      (value "10k") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "41305926-09d3-44af-ae06-037865a9daa2")) 
+    (comp 
+      (ref "R5") 
+      (value "1M") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "79baa449-a592-4eca-8134-a043d2f3171b")) 
+    (comp 
+      (ref "U1") 
+      (value "LM358") 
+      (footprint "Package_DIP:DIP-8_W7.62mm") 
+      (datasheet "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf") 
+      (libsource 
+        (lib "Amplifier_Operational") 
+        (part "LM358") 
+        (description "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value " first_try.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "4f41ede8-5aba-40d3-bb15-9886ab31ebe2" "3a12eba0-b31a-4faf-8e6d-9bf5abd508b3"))) 
+  (libparts 
+    (libpart 
+      (lib "Amplifier_Operational") 
+      (part "LM358") 
+      (description "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8") 
+      (docs "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf") 
+      (footprints 
+        (fp "SOIC*3.9x4.9mm*P1.27mm*") 
+        (fp "DIP*W7.62mm*") 
+        (fp "TO*99*") 
+        (fp "OnSemi*Micro8*") 
+        (fp "TSSOP*3x3mm*P0.65mm*") 
+        (fp "TSSOP*4.4x3mm*P0.65mm*") 
+        (fp "MSOP*3x3mm*P0.65mm*") 
+        (fp "SSOP*3.9x4.9mm*P0.635mm*") 
+        (fp "LFCSP*2x2mm*P0.5mm*") 
+        (fp "*SIP*") 
+        (fp "SOIC*5.3x6.2mm*P1.27mm*")) 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "LM358") 
+        (field 
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "output")) 
+        (pin 
+          (num "2") 
+          (name "-") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "+") 
+          (type "input")) 
+        (pin 
+          (num "4") 
+          (name "V-") 
+          (type "power_in")) 
+        (pin 
+          (num "5") 
+          (name "+") 
+          (type "input")) 
+        (pin 
+          (num "6") 
+          (name "-") 
+          (type "input")) 
+        (pin 
+          (num "7") 
+          (name "") 
+          (type "output")) 
+        (pin 
+          (num "8") 
+          (name "V+") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Connector") 
+      (part "Conn_01x02_Female") 
+      (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x02_Female") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector") 
+      (part "Conn_01x02_Male") 
+      (description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x02_Male") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "C") 
+      (description "Unpolarized capacitor") 
+      (docs "~") 
+      (footprints 
+        (fp "C_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "C_Polarized") 
+      (description "Polarized capacitor") 
+      (docs "~") 
+      (footprints 
+        (fp "CP_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C_Polarized") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "R") 
+      (description "Resistor") 
+      (docs "~") 
+      (footprints 
+        (fp "R_*")) 
+      (fields 
+        (field 
+          (name "Reference") "R") 
+        (field 
+          (name "Value") "R") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive"))))) 
+  (libraries 
+    (library 
+      (logical "Amplifier_Operational") 
+      (uri "/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Amplifier_Operational.kicad_sym")) 
+    (library 
+      (logical "Connector") 
+      (uri "/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym")) 
+    (library 
+      (logical "Device") 
+      (uri "/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "Amp Input") 
+      (node 
+        (ref "C4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J2") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive"))) 
+    (net 
+      (code "2") 
+      (name "GND") 
+      (node 
+        (ref "C3") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J1") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J2") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "3") 
+      (name "Net-(C1-Pad1)") 
+      (node 
+        (ref "C1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J1") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "4") 
+      (name "Net-(C1-Pad2)") 
+      (node 
+        (ref "C1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "5") 
+      (name "Net-(C2-Pad1)") 
+      (node 
+        (ref "C2") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R5") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "2") 
+        (pinfunction "-") 
+        (pintype "input"))) 
+    (net 
+      (code "6") 
+      (name "Net-(C2-Pad2)") 
+      (node 
+        (ref "C2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "1") 
+        (pintype "output")) 
+      (node 
+        (ref "U1") 
+        (pin "5") 
+        (pinfunction "+") 
+        (pintype "input"))) 
+    (net 
+      (code "7") 
+      (name "Net-(C4-Pad1)") 
+      (node 
+        (ref "C4") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "6") 
+        (pinfunction "-") 
+        (pintype "input")) 
+      (node 
+        (ref "U1") 
+        (pin "7") 
+        (pintype "output"))) 
+    (net 
+      (code "8") 
+      (name "Net-(R1-Pad1)") 
+      (node 
+        (ref "R1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "9") 
+      (name "Net-(R2-Pad1)") 
+      (node 
+        (ref "R2") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3") 
+        (pinfunction "+") 
+        (pintype "input"))) 
+    (net 
+      (code "10") 
+      (name "Vcc") 
+      (node 
+        (ref "C3") 
+        (pin "2") 
+        (pintype "passive")))))
