@@ -3,7 +3,7 @@
 
 * This repo is for learning purpose!
 
-*The [mic_tester](https://github.com/kawashimaken/mic-tester-lm358-lm386/tree/main/mic_tester) folder contains all files for KiCad.
+* The [mic_tester](https://github.com/kawashimaken/mic-tester-lm358-lm386/tree/main/mic_tester) folder contains all files for KiCad.
 
 * Feel free to play with it.
 
