@@ -1847,7 +1847,7 @@
     (property "Value" "10k" (id 1) (at 81.28 93.9799 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical" (id 2) (at 83.82 92.71 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical" (id 2) (at 83.82 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 83.82 92.71 0)
@@ -2040,7 +2040,7 @@
       (reference "R6") (unit 1) (value "10") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/b59e0d69-36ca-4874-9a3b-18977012e6b1"
-      (reference "RV1") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical")
+      (reference "RV1") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical")
     )
     (path "/4f41ede8-5aba-40d3-bb15-9886ab31ebe2"
       (reference "U1") (unit 1) (value "LM358") (footprint "Package_DIP:DIP-8_W7.62mm")
