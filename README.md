@@ -4,6 +4,8 @@ If you want to use PCB service, make sure you export your Gerberfile.
 
 ![3d view](./pic/mic_tester.png)
 
+![3d view v1.1](./pic/v1.1.jpg)
+
 # YouTube
 
 [![](https://img.youtube.com/vi/nFrnlTu5QJI/0.jpg)](https://www.youtube.com/watch?v=nFrnlTu5QJI)
