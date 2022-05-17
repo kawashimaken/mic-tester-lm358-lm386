@@ -1,3 +1,7 @@
+I use KiCad 6.0.1 for this project. All KiCad files are (here)[https://github.com/kawashimaken/mic-tester-lm358-lm386/tree/main/mic_tester] 
+
+If you want to use PCB service, make sure you export your Gerberfile.
+
 ![3d view](./pic/mic_tester.png)
 
 # YouTube
