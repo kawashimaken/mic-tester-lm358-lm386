@@ -1,5 +1,9 @@
 ![3d view](./pic/mic_tester.png)
 
+# YouTube
+
+[![](https://img.youtube.com/vi/nFrnlTu5QJI/0.jpg)](https://www.youtube.com/watch?v=nFrnlTu5QJI)
+
 # mic-tester-lm358-lm386
 
 
