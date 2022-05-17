@@ -2,10 +2,10 @@ I use KiCad 6.0.1 for this project. All KiCad files are [here](https://github.co
 
 If you want to use PCB service, make sure you export your Gerberfile.
 
-* V1.0 (KiCad 6.0.1)
+* V1.0 (KiCad 6.0.1) used in the video
 ![3d view](./pic/mic_tester.png)
 
-* V1.1 (KiCad 6.0.5)
+* V1.1 (KiCad 6.0.5) not manufactured
 ![3d view v1.1](./pic/v1.1.jpg)
 
 # YouTube
