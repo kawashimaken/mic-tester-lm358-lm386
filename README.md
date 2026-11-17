@@ -10,7 +10,13 @@ If you want to use PCB service, make sure you export your Gerberfile.
 
 # YouTube
 
-[![](https://img.youtube.com/vi/nFrnlTu5QJI/0.jpg)](https://www.youtube.com/watch?v=nFrnlTu5QJI)
+<div align="center">
+  <div align="center">
+  <a href="https://youtu.be/nFrnlTu5QJI" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/nFrnlTu5QJI/maxresdefault.jpg" alt="YouTube Video" width="800" />
+  </a>
+</div>
+</div>
 
 # mic-tester-lm358-lm386
 
